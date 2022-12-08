@@ -4,22 +4,19 @@
 * node.js
 * React.js
 
-## Install dependencies:
+## Install back-end dependencies & node.js start server:
 
 ```
 npm install
-```
-
-## Start back-end node.js server:
-
-```
 npm start
+
 ```
 
-## Run front-end React.js application:
+## Install back-end dependencies & run front-end React.js application:
 
 ```
 cd ./client
+npm install
 npm start
 ```
 ## Open front-end application:
